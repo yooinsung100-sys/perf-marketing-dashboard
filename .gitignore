@@ -1,0 +1,7 @@
+data/raw/
+data/processed/joined/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.zip
